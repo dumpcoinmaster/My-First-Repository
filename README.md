@@ -1,6 +1,6 @@
 # My-First-Repository
 
-Hi cruious person,
+Hi curious person,
 
 This is Dump Coin Master writing his first ever line of code on github.
 
